@@ -1,4 +1,3 @@
-```markdown
 # API Documentation Site
 
 ## Prerequisites
