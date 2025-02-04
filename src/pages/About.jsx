@@ -12,7 +12,7 @@ const About = () => {
         image: "/team/dean.jpg"
       },
       {
-        name: "Irine Mae Ompaling",
+        name: "Irine May Ompaling",
         role: "Developer",
         image: "/team/irine.png"
       },
